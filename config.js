@@ -1,8 +1,8 @@
 const nameGirl = 'Cô Hằng';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng 8/3';
-const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc Cô giáo tuyệt vời của tụi Em ngày 8/3 thật là vui vẻ';
+const titleCard = 'Tặng Cô';
+const contentCard = 'Chúc Cô giáo tuyệt vời của tụi Em ngày 8/3 thật là vui vẻ Cô nhé';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
